@@ -55,7 +55,6 @@ The agent will:
 ## 1. Clone the Project
 
 git clone https://github.com/Shubham-2704/AI-Research-Agent.git
-cd research-agent
 
 ## 2. Install Requirements
 pip install -r requirements.txt
