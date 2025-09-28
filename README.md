@@ -1,9 +1,6 @@
 # Research_Agent
 The Generative AI Research Assistant is an intelligent tool built with LangGraph, Groq's LLaMA 3, and Tavily Search API that automates topic research, document summarization, and confidence scoring
 
-
-markdown
-Copy code
 ## Generative AI Research Agent
 
 This is an intelligent AI assistant that helps you **do research** on any topic. It reads your question, searches online and in academic papers, and gives you a detailed, clear answer — just like a real research assistant.
@@ -57,7 +54,7 @@ The agent will:
 
 ## 1. Clone the Project
 
-git clone https://github.com/yourname/research-agent
+git clone https://github.com/Shubham-2704/AI-Research-Agent.git
 cd research-agent
 
 ## 2. Install Requirements
@@ -71,7 +68,7 @@ TAVILY_API_KEY = "your_api_key"
 GEMINI_API_KEY = "your_gemini_key"
 
 ## 4. Run the Web App
-streamlit run interfaces/streamlit_ui.py
+streamlit run main.py
 `
 
 
