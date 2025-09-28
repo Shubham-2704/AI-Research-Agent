@@ -65,7 +65,7 @@ Create a .env file and add:
 
 TAVILY_API_KEY = "your_api_key"
 
-GEMINI_API_KEY = "your_gemini_key"
+GROQ_API_KEY = "your_groq_key"
 
 ## 4. Run the Web App
 streamlit run main.py
